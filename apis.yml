@@ -17,5 +17,5 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/park-hotel
 description: 'Profile for Park Hotels &amp; Resorts in the API Evangelist network. Fortune F1000 (rank 817).'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
