@@ -1,6 +1,6 @@
 aid: park-hotels-and-resorts
 url: https://raw.githubusercontent.com/api-evangelist/park-hotels-and-resorts/refs/heads/main/apis.yml
-name: Park Hotels &amp; Resorts
+name: Park Hotels & Resorts
 type: Index
 deliveryModel:
   model: unknown
@@ -25,7 +25,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/park-hotels-and-resorts.png
-description: 'Profile for Park Hotels &amp; Resorts in the API Evangelist network. Fortune F1000 (rank 817).'
+description: Profile for Park Hotels & Resorts in the API Evangelist network. Fortune F1000 (rank 817).
 created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.23'
